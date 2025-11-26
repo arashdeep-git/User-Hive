@@ -31,7 +31,7 @@ Ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-https://github.com/MdMohsinHaider/User-Hive.git
+https://github.com/arashdeep-git/User-Hive.git
 cd user-hive
 ```
 
